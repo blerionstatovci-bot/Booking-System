@@ -15,7 +15,7 @@ Ky është një projekt për menaxhimin e rezervimeve, i ndarë në module të n
 
 1. Shkarko projektin:
    ```bash
-   git clone https://github.com/username/booking-system.git
+   git clone https://github.com/blerionstatovci-bot/Booking-System.git
    ```
 2. Instalo varësitë:
    ```bash
